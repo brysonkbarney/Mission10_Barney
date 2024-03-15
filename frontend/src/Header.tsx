@@ -13,6 +13,10 @@ function Header(props: any) {
       </div>
       <div className="col subtitle">
         <h1 className="text-white">{props.title}</h1>
+        <p className="text-white">
+          We are the best 65+ bowling team in the nation. See our best bowlers
+          down below.
+        </p>
       </div>
     </header>
   );
